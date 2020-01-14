@@ -5,11 +5,10 @@
 
             int num;
 
-            num = 12345;
-
+            num = 123456;
 
             // prints out hello
-            System.out.println("num = " + num);
+            System.out.println("num = " + num );
         }
 
 
