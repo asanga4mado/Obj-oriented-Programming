@@ -1,4 +1,4 @@
-package PersonalInformation;
+package Basics.Assignment1e.PersonalInformation;
 
 public class PersonalInformation {
 

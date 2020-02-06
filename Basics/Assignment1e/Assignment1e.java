@@ -1,5 +1,5 @@
 
-package Assignment1e;
+package Basics.Assignment1e;
 
 import java.util.Arrays;
 

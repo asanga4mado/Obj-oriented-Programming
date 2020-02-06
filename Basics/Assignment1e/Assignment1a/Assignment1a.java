@@ -1,4 +1,5 @@
-package Assignment1a;
+package Basics.Assignment1e.Assignment1a;
+
 
 public class Assignment1a {
 
@@ -15,6 +16,8 @@ public class Assignment1a {
         Assignment1a assignment1a = new Assignment1a();
         assignment1a.printFibonacci(20);
     }
+
+    // define variables
 
     private void printFibonacci(int n) {
         for (int i = 1; i <= n; i++) {

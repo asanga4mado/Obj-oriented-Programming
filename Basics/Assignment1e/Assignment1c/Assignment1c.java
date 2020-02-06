@@ -1,5 +1,5 @@
 
-package Assignment1c;
+package Basics.Assignment1e.Assignment1c;
 
 public class Assignment1c {
 

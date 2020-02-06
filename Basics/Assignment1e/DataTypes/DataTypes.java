@@ -1,6 +1,6 @@
 
 
-package DataTypes;
+package Basics.Assignment1e.DataTypes;
 
 public class DataTypes {
 

@@ -1,4 +1,4 @@
-package Assignment1b;
+package Basics.Assignment1e.Assignment1b;
 
 public class Assignment1b {
 
